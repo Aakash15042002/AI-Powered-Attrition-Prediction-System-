@@ -1,5 +1,15 @@
 # AI-Powered Attrition Prediction System 
 
+## OBJECTIVE: 
+Build a simple AI system that predicts whether an employee is likely to leave the company 
+(attrition). 
+
+This task assesses your ability to: 
+
+* Clean and preprocess real
+* world data - Build a basic ML model
+* Evaluate performance
+* Document findings and communicate clearly 
 ## VARIABLES
 
 * Age: Represents the age of the employee in years. Age can correlate with experience, job satisfaction, and retention.
